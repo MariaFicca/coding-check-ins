@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<head>
+ <meta charset="utf-8">
+  
+ <link rel="stylesheet" href="" type="text/css">
+<link rel="stylesheet" href="blur.css" type="text/css">
+   <title>Code Check in 4</title>
+</head>
+<body>
+<h1>My Favorite Movies</h1>
+<table>
+	<thead>
+		<tr>
+			<th>Movie</th>
+			<th>Distributor</th>
+			<th>Release Date</th>
+			<th>Gross</th>
+			<th>Source</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Forrest Gump</td>
+			<td>
