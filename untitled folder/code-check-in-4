@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <head>
  <meta charset="utf-8">
-  
- <link rel="stylesheet" href="" type="text/css">
-<link rel="stylesheet" href="blur.css" type="text/css">
    <title>Code Check in 4</title>
 </head>
 <body>
@@ -41,6 +38,7 @@
 				<td>$132,373,442</td>
 				<td><a href="http://www.imdb.com/title/tt0407887/">link</a></td>
 			</tr>
+			<tr>
 				<td><a href="http://www.youtube.com/watch?v=PbdM1db3JbY">Harry Potter</a></td>
 				<td>Warner Brothers</td>
 				<td>November 16, 2001</td>
@@ -53,9 +51,14 @@
 				<td>February 16, 1996</td>
 				<td>$38,824,099</td>
 				<td><a href="http://www.boxofficemojo.com/movies/?id=happygilmore.htm">link</a></td>
-			</tr> 	 
+			</tr>
+		</tbody>
+	</table>
+</body>
+</html>
+		 	 
 					
-					
+				
 					
 					
 					
