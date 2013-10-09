@@ -11,5 +11,8 @@
 	
 	<p id="second picture"><img src="JPEG.Gates.jpg" alt="Bill and Melinda Gates Foundation is a big supporter"></p>
 	
-	<p ide="third picture"><img src="JPEG.Abelson.jpg" alt="Director Abelson"></p>
+	<p id="third picture"><img src="JPEG.Abelson.jpg" alt="Director Abelson"></p>
+	
+	<p id="fourth picture"><img src="">
+	
 	
