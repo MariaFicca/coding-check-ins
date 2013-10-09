@@ -7,4 +7,9 @@
 <body>
 	<h1>Creative Commons</h1>
 	
-	<img src="JPEG.index.jpeg" alt="California Community Colleges require Creative Commons Attribution for Chancellor’s Office Grants & Contracts">
+	<p id="first picture"><img src="JPEG.index.jpg" alt="California Community Colleges require Creative Commons Attribution for Chancellor’s Office Grants & Contracts"/></p>
+	
+	<p id="second picture"><img src="JPEG.Gates.jpg" alt="Bill and Melinda Gates Foundation is a big supporter"></p>
+	
+	<p ide="third picture"><img src="JPEG.Abelson.jpg" alt="Director Abelson"></p>
+	
