@@ -2,19 +2,14 @@
 <head>
  <meta charset="utf-8">
    <title>Code Check in 5</title>
-  <link rel="stylesheet" href="menu.css" type="text/css" media="screen" title="no title" charset="utf-8">
+ <link rel="stylesheet" href="5.css" type="text/css" media="screen" title="no title" charset="utf-8">
+ 
 </head>
 <body>
 
-<h1>The Project Gutenberg EBook of Beowulf</h1>
+<h1>The Project Gutenberg EBook of Beowulf</h1> 
 
-<p id="intro">This eBook is for the use of anyone anywhere at no cost and with
-<<<<<<< HEAD
-almost no restrictions whatsoever. You may copy it, give it away or
-=======
-almost no restrictions whatsoever.  You may copy it, give it away or
->>>>>>> c9bdfcb8b436ecaf06ed3741ac90cf683acdc449
-re-use it under the terms of the Project Gutenberg License included
+<p id="intro">This eBook is for the use of anyone anywhere at no cost and re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at <a href="www.gutenberg.net">www.gutenberg.net</a></p>
 
 <ul>
@@ -22,11 +17,11 @@ with this eBook or online at <a href="www.gutenberg.net">www.gutenberg.net</a></
        An Anglo-Saxon Epic Poem, Translated From The Heyne-Socin
        Text by Lesslie Hall</li>
 
-<li>Author:</li>
+<li>Author:</li>  
 
 <li>Release Date: July 19, 2005 [EBook #16328]</li>
 
-<li>Language: English</li>
+<li>Language: English</li> 
 </ul>
 
 <p id="start">*** START OF THIS PROJECT GUTENBERG EBOOK BEOWULF ***</p>
