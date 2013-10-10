@@ -1,18 +1,63 @@
+a{
+	text-decoration: none;
+}
+
+a:link{
+	color: green;
+}
+
+a:visited{
+	color: purple;
+}
+
+a:hover{
+	color: blue;
+	text-decoration: underline;
+}
+
+a:active{
+	color: blue;
+}
 
 head {
 	background-color: orange;
 	font-color: red;
 }
+
+
+
 body{
-	background-color: yellow;
+	background-color: pink;
+	background-image: url(pasta.html);
+	background-size: cover;
+	background-attachment: fixed;
+	
 	font-family: courier, monospace;
-	color: red;
+	color: black;
+	
+	background: rgb(208,228,247); /* Old browsers */
+
+	background: -moz-radial-gradient(center, ellipse cover,  rgba(208,228,247,1) 0%, rgba(115,177,231,1) 24%, rgba(10,119,213,1) 50%, rgba(83,159,225,1) 79%, rgba(135,188,234,1) 100%); /* FF3.6+ */
+
+	background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,rgba(208,228,247,1)), color-stop(24%,rgba(115,177,231,1)), color-stop(50%,rgba(10,119,213,1)), color-stop(79%,rgba(83,159,225,1)), color-stop(100%,rgba(135,188,234,1))); /* Chrome,Safari4+ */
+
+	background: -webkit-radial-gradient(center, ellipse cover,  rgba(208,228,247,1) 0%,rgba(115,177,231,1) 24%,rgba(10,119,213,1) 50%,rgba(83,159,225,1) 79%,rgba(135,188,234,1) 100%); /* Chrome10+,Safari5.1+ */
+
+	background: -o-radial-gradient(center, ellipse cover,  rgba(208,228,247,1) 0%,rgba(115,177,231,1) 24%,rgba(10,119,213,1) 50%,rgba(83,159,225,1) 79%,rgba(135,188,234,1) 100%); /* Opera 12+ */
+
+	background: -ms-radial-gradient(center, ellipse cover,  rgba(208,228,247,1) 0%,rgba(115,177,231,1) 24%,rgba(10,119,213,1) 50%,rgba(83,159,225,1) 79%,rgba(135,188,234,1) 100%); /* IE10+ */
+
+	background: radial-gradient(ellipse at center,  rgba(208,228,247,1) 0%,rgba(115,177,231,1) 24%,rgba(10,119,213,1) 50%,rgba(83,159,225,1) 79%,rgba(135,188,234,1) 100%); /* W3C */
+
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d0e4f7', endColorstr='#87bcea',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+	
 }
 
 h1{
-	background-color: orange;
+	background-color: white;
 }
 
 p{
-	background-color: orange;
+	background-color: white;
 }

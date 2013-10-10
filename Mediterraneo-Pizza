@@ -10,8 +10,17 @@
 <body>
 	
 <h1>Mediterraneo Pizza</h1>
-245 Lancaster Ave , Malvern PA 19355 
-(610) 240-9566
+<h2>245 Lancaster Ave , Malvern PA 19355</h2>
+<h3>(610) 240-9566</h3>
+<ul>
+	<li><a href="#appetizers-menu">Appetizers</a></li>
+	<li><a href="#salads-menu">Salads</a></li>
+	<li><a href="#wraps-menu">Wraps</a></li>
+	<li><a href="#pasta-menu">Pasta</a></li>
+	<li><a href="#baked-dishes-menu">Baked Dishes</a></li>
+</ul>
+
+<div id="appetizers-menu">
  
 <p><strong>Cold Appetizers</strong></p>
 <ul>
@@ -51,6 +60,10 @@ with french fries.</li>
 <li>SAMPLER $8.50
 wings (3), mozzarella sticks (3) & chicken tenders (2), with french fries.</li></ul>
  
+	</div><!-- end appetizers-->
+	
+	<div id="salads-menu">
+
 <p><strong>Salads</strong></p>
 <ul> 
 <li>CHEF SALAD $7.95
@@ -79,12 +92,18 @@ fresh tomatoes, mozzarella & virgin olive oil.</li>
  
 <li>GREEK SALAD $7.95
 with feta cheese and black olives.</li></ul>
+</div><!-- end salads-->
+
+<div id="wraps-menu">
  
 <p><strong>Wraps</strong></p>
 <ul> 
 <li>Create your own.
 WRAPS $7.95
 served with french fries, chips or salad.</li></ul>
+</div><!-- end wraps-->
+
+<div id="pasta-menu">
  
 <p><strong>Pasta</strong></p>
  
@@ -103,6 +122,9 @@ spicy marinara.</li>
 <li>TORTELLINI TOMATO SAUCE $10.50</li>
 <li>GNOCCHI TOMATO SAUCE $10.50</li>
 <li>CHEESE RAVIOLI $10.50</li></ul>
+</div><!-- end pastas-->
+
+<div id="baked-dishes-menu">
  
 <p><strong>Baked Dishes</strong></p>
  <ul>
@@ -112,6 +134,9 @@ spicy marinara.</li>
 <li>BAKED ZITI $10.95</li>
 <li>TORTELLINI PARMIGIANA $11.45</li>
 <li>EGGPLANT PARMIGIANA $12.45</li></ul>
+</div><!-- end baked dished-->
+
+<div id="pasta-specialties-menu">
  
 <p><strong>Pasta Specialties</strong></p>
  <ul>
@@ -147,6 +172,9 @@ your choice of pasta with sun dried tomatoes, shrimp, roasted peppers & fresh to
  
 <li>PASTA FANTASIA $13.95
 bowtie pasta with grilled chicken & vodka tomato cream sauce.</li></ul>
+</div><!-- end pasta specialties-->
+
+<div id="seafood-menu">
  
 <p><strong>Seafood</strong></p>
 <ul> 
@@ -167,6 +195,7 @@ clams, mussels, calamari & shrimp sauteed in a garlic marinara sauce.</li>
  
 <li>SALMONE PAESANO $16.95
 fresh salmon sauteed with lemon, capers & white wine on a bed of spinach.</li></ul>
+</div>
  
 <p><strong>Chicken</strong></p>
 <ul> 
