@@ -1,9 +1,18 @@
 
 head {
-	background color: orange;
-	font color: red;
+	background-color: orange;
+	font-color: red;
 }
 body{
-	background color: yellow;
-	font color: red;
+	background-color: yellow;
+	font-family: courier, monospace;
+	color: red;
+}
+
+h1{
+	background-color: orange;
+}
+
+p{
+	background-color: orange;
 }
