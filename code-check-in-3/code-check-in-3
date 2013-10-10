@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="utf-8">
+	<title>Code Check in 3</title>
+</head>
+
+<body>
+	<h1>Creative Commons</h1>
+	
+	<p id="first picture"><img src="JPEG.index.jpg" alt="California Community Colleges require Creative Commons Attribution for Chancellor’s Office Grants & Contracts"/></p>
+	
+	<p id="second picture"><img src="JPEG.Gates.jpg" alt="Bill and Melinda Gates Foundation is a big supporter"></p>
+	
+	<p id="third picture"><img src="JPEG.Abelson.jpg" alt="Director Abelson"></p>
+	
+	<p id="fourth picture"><img src="">
+	
+	

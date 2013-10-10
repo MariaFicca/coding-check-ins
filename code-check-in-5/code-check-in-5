@@ -9,7 +9,11 @@
 <h1>The Project Gutenberg EBook of Beowulf</h1>
 
 <p id="intro">This eBook is for the use of anyone anywhere at no cost and with
+<<<<<<< HEAD
 almost no restrictions whatsoever. You may copy it, give it away or
+=======
+almost no restrictions whatsoever.  You may copy it, give it away or
+>>>>>>> c9bdfcb8b436ecaf06ed3741ac90cf683acdc449
 re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at <a href="www.gutenberg.net">www.gutenberg.net</a></p>
 
