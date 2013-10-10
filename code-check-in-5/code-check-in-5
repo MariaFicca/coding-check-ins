@@ -2,13 +2,14 @@
 <head>
  <meta charset="utf-8">
    <title>Code Check in 5</title>
+  <link rel="stylesheet" href="menu.css" type="text/css" media="screen" title="no title" charset="utf-8">
 </head>
 <body>
 
-<h1>The Project Gutenberg EBook of Beowulf</h1> 
+<h1>The Project Gutenberg EBook of Beowulf</h1>
 
-<p>This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
+<p id="intro">This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever. You may copy it, give it away or
 re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at <a href="www.gutenberg.net">www.gutenberg.net</a></p>
 
@@ -17,21 +18,21 @@ with this eBook or online at <a href="www.gutenberg.net">www.gutenberg.net</a></
        An Anglo-Saxon Epic Poem, Translated From The Heyne-Socin
        Text by Lesslie Hall</li>
 
-<li>Author:</li>  
+<li>Author:</li>
 
 <li>Release Date: July 19, 2005 [EBook #16328]</li>
 
-<li>Language: English</li> 
+<li>Language: English</li>
 </ul>
 
-<p>*** START OF THIS PROJECT GUTENBERG EBOOK BEOWULF ***</p>
+<p id="start">*** START OF THIS PROJECT GUTENBERG EBOOK BEOWULF ***</p>
 
 
-<p>Produced by David Starner, Dainis Millers and the Online
+<p id="producer">Produced by David Starner, Dainis Millers and the Online
 Distributed Proofreading Team at <a href="http://www.pgdp.net">http://www.pgdp.net</a></p>
 
 
-<p><strong>BEOWULF</strong></p>
+<p id="title"><strong>BEOWULF</strong></p>
 AN ANGLO-SAXON EPIC POEM
 
 <p>_TRANSLATED FROM THE HEYNE-SOCIN TEXT_</p>
@@ -51,3 +52,5 @@ BOSTON NEW YORK CHICAGO</p>
 JNO: LESSLIE HALL,
 
 in the Office of the Librarian of Congress, at Washington.</p>
+</body>
+</html>
