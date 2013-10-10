@@ -7,6 +7,10 @@ h1 {
 	background-color:white;
 }
 
-p { font-color: green;
-	
+ul {
+	font-size: 1.5;
+	color: green;
+}
+
+.title { 
 }
