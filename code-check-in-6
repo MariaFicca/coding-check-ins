@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+		<meta charset="utf-8">
+		<title>Maria Ficca's Resume</title>
+		
+	
+	
+</head>
+
+<body>
+		
+<div id="container">
+<header>
+	<h1>Maria Ficca</h1>
+	<ul class="contact-info">
+		<li class="address">221 Dowlin Forge road, Exton, PA, 19341/</li>
+		<li class="email">Maria.ficca@sju.edu/</li>
+		<li class="phone">484.885.5235</li
+		</ul>
+	</header>
+<section id="objective">
+	<h2>OBJECTIVE</h2>
+	<p>To obtain a job at a public relations firm where I can use my customer service experience, work ethic and commitment, and leadership skills</p>
+</section>
+<section id="education">
+	<h2>EDUCATION</h2>
+	<p>Saint Joseph's University</p>
+	<p>Bachelor of Arts, Major Communications Studies, Minor Marketing</p>	
