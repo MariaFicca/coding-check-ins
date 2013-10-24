@@ -3,7 +3,7 @@
 <head>
 		<meta charset="utf-8">
 		<title>Maria Ficca's Resume</title>
-		
+		<link rel="stylesheet" href="css/resume.css" type="text/css" media="screen" title="no title" charset="utf-8">
 	
 	
 </head>
@@ -28,11 +28,52 @@
 	<p>Saint Joseph's University</p>
 	<p>Bachelor of Arts, Major Communications Studies, Minor Marketing</p>
 </section>
-<section id="Customer-Service-Experience">
-	<h2>Customer Service Experience</h2>
+<div class="awards">
+<section id="honors">
+	<h2>Honors and Awards</h2>
+	<ul>
+		<li>Athletic Director's Honor Roll Fall 2012 and Spring 2012</li>
+		<li>Athletic Scholarship 2010-present</li>
+	</ul>
+</section>
+</div>
+
+<section id="Work-experience">
+	<h2>Work Experience</h2>
+	<div class="experience-section">
 	<h3>Sales Rep for Vector Marketing, Wayne, PA Summer 2012</h3>
 	<p>Worked by cold calling to self-schedule appointments and put on 45 minute demonstration to sell cutlery.<p>
 		<p>Sold over $1,000 of product in the first weekend</p>
+	</div>
+	<div class="experience-section">
+	<h3>GM Sports Coach Philadelphia, PA 2011-present</h3>
+	<p>Instructed young softball players during camps and clinics.</p>
+	<p>Managed and organized inventory.</p>
+</div>
+</section>
+<section id="commitment">
+	<div class="work-ethic">
+	<h2>Strong Work Ethic and Commitment</h2>
+	<h3>Student-Athlete</h3>
+	<p>Balanced 20 hours a week of practicing and working out with a full 15 credit course load</p>
+	<p>In season, majority of the spring semester, multiple road trips that can be up to a 10 hour busride and being away for 3 days while still completing assignments effieciently.</p>
+</div>
+</section>
+<section id="skills">
+	<h2>Skills</h2>
+	<p>Photoshop, iMovie, Audacity, HTML5, CSS, Prezi, Powerpoint, Word</p>
+</section>
+</body>
+</html>
+
+
+
+
+
+
+
+
+		
 		
 	
 	
