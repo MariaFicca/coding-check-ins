@@ -3,15 +3,17 @@
 <head>
 <meta charset="utf-8">
 <title>Menu</title>
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" href="css/menu.css" type="text/css" media="screen" title="no title" charset="utf-8">
+
 </head>
 <body>
  
- 
+<div id="container"> 
 <h1>Mediterraneo Pizza</h1>
 <h2>245 Lancaster Ave , Malvern PA 19355</h2>
 <h2>(610) 240-9566</h2>
- 
+
+<div id="Cold-appetizers"> 
 <h3>Cold Appetizers</h3>
 <h4>ANTIPASTO MEDITERRANIO $12.50</h4>
 <p>fresh mozzarella, sun dried tomatoes, provolone, roasted peppers, bruschetta &amp; marinated artichokes.</p>
@@ -19,6 +21,8 @@
 <p>prosciutto di parma, soppressata, salami, roast beef, sun dried tomatoes, green olives, giardiniera &amp; marinated mushrooms.</p>
 <h4>BRUSCHETTA$ 5.95</h4>
 <p>diced tomatoes, marinated in vinaigrette toasted garlic bread.</p>
+</div>
+<div id="Hot-Appetiers">
 <h3>Hot Appetizers</h3>
 <h4>SAUTEED MUSSELS $7.25</h4>
 <p>in red or white sauce.</p>
@@ -36,7 +40,8 @@
 <p>with french fries.</p>
 <h4>SAMPLER $8.50</h4>
 <p>wings (3), mozzarella sticks (3) &amp; chicken tenders (2), with french fries.</p>
- 
+</div>
+<div id="Salads">
 <h3>Salads</h3>
 <h4>CHEF SALAD $7.95</h4>
 <p>turkey, provolone &amp; ham.</p>
@@ -54,12 +59,15 @@
 <h4>ROAST BEEF &amp; CHEESE $6.75</h4>
 <h4>GREEK SALAD $7.95</h4>
 <p>with feta cheese and black olives.</p>
- 
+</div>
+<div id="wraps">
 <h3>Wraps</h3>
 <p>Create your own.</p>
 <h4>WRAPS $7.95</h4>
 <p>served with french fries, chips or salad.</p>
- 
+</div>
+
+<div id="pasta">
 <h3>Pasta</h3>
 <p>All dinners are served with a side salad, fresh bread &amp; a choice of spaghetti, linguini or ziti.</p>
 <h4>TOMATO SAUCE $8.95</h4>
@@ -81,7 +89,8 @@
 <h4>BAKED ZITI $10.95</h4>
 <h4>TORTELLINI PARMIGIANA $11.45</h4>
 <h4>EGGPLANT PARMIGIANA $12.45</h4>
- 
+</div>
+<div id="Pasta-Specialties">
 <h3>Pasta Specialties</h3>
 <h4>PENNE ALL CAMPAGNOLA $10.95</h4>
 <p>diced chicken &amp; broccoli rabe in a garlic sauce with plum tomatoes.</p>
@@ -105,7 +114,8 @@
 <p>your choice of pasta with sun dried tomatoes, shrimp, roasted peppers &amp; fresh tomatoes.</p>
 <h4>PASTA FANTASIA $13.95</h4>
 <p>bowtie pasta with grilled chicken &amp; vodka tomato cream sauce.</p>
- 
+</div>
+<div id="Seafood">
 <h3>Seafood</h3>
 <h4>SHIMP SCAMPI $16.95</h4>
 <p>sauteed in garlic butter wine &amp; lemon sauce.</p>
@@ -119,7 +129,8 @@
 <p>clams, mussels, calamari &amp; shrimp sauteed in a garlic marinara sauce.</p>
 <h4>SALMONE PAESANO $16.95</h4>
 <p>fresh salmon sauteed with lemon, capers &amp; white wine on a bed of spinach.</p>
- 
+</div>
+<div id="Chicken">
 <h3>Chicken</h3>
 <h4>CHICKEN MARSALA $13.95</h4>
 <p>sauteed mushrooms &amp; marsala wine sauce.</p>
@@ -136,7 +147,9 @@
 <p>sauteed in garlic butter, white wine &amp; lemon sauce.</p>
 <h4>CHICKEN FRANCAISE $13.95</h4>
 <p>egg battered with white wine &amp; lemon sauce.</p>
+</div>
  
+<div id="veal">
 <h3>Veal</h3>
 <h4>VEAL MARSALA $15.95</h4>
 <p>sauteed mushrooms &amp; marsala wine sauce.</p>
@@ -151,12 +164,16 @@
 <p>white wine lemon sauce.</p>
 <h4>VEAL CACCIATORE $15.95</h4>
 <p>sauteed mushrooms, roasted peppers, red onions &amp; marinara sauce.</p>
- 
+</div>
+
+<div id="NY-pizza"> 
 <h3>New York Style Pizza</h3>
 <h4>REGULAR $8.95 - $12.95</h4>
 <h4>TOPPINGS EXTRA $1.25 - $2.50</h4>
 <p>pepperoni, sausage, mushrooms, green peppers, anchovies, onions meatballs, black olives, extra cheese, broccoli, spinach, sun dried tomatoes, roasted peppers, fresh garlic, sweet peppers, hot peppers.</p>
+</div>
  
+<div id="red">
 <h3>Gourmet Red</h3>
 <h4>BBQ CHICKEN $14.50</h4>
 <h4>TOMATO PIE $10.00</h4>
@@ -171,7 +188,9 @@
 <p>ham &amp; pineapple.</p>
 <h4>MARGARITA $13.00</h4>
 <p>fresh mozzarella and fresh basil.</p>
- 
+</div>
+
+<div id="white"> 
 <h3>Gourmet White</h3>
 <h4>WHITE $12.00</h4>
 <p>garlic &amp; ricotta cheese.</p>
@@ -182,7 +201,9 @@
 <h4>CHICKEN &amp; TOMATOES $13.95</h4>
 <h4>JOE PIZZA $13.00</h4>
 <p>pesto, sauce &amp; fresh tomatoes.</p>
- 
+</div>
+
+<div id="stromboli"> 
 <h3>Stromboli</h3>
 <h4>REGULAR $8.50 - $10.50</h4>
 <h4>CHEESESTEAK $10.00 - $14.95</h4>
@@ -192,18 +213,22 @@
 <h4>ITALIAN $11.00 - $14.95</h4>
 <p>genoa salami, prosciutto &amp; pepperoni.</p>
 <h4>EXTRA FILLERS $1.50 - $2.50</h4>
- 
+</div>
+
+<div id="calzone">
 <h3>Calzone</h3>
 <h4>REGULAR RICOTTA &amp; MOZZARELLA $8.50 - $11.00</h4>
 <h4>EXTRA TOPPING $1.50 - $2.50</h4>
- 
+</div>
+<div id="club-sandwiches">
 <h3>Club Sandwiches</h3>
 <p>All platters are served on white bread and include french fries and pickles.</p>
 <h4>TURKEY $7.95</h4>
 <h4>ROAST BEEF $8.95</h4>
 <h4>TUNA $7.95</h4>
 <h4>CHICKEN CAESAR $8.95</h4>
- 
+</div>
+<div id="burgers"> 
 <h3>Burgers</h3>
 <p>8 Oz. of beef. All platters are served with lettuce, tomato, french fries and pickle. Extra topping each $0.50.</p>
 <h4>HAMBURGER $6.45</h4>
@@ -211,7 +236,9 @@
 <h4>DOUBLE CHEESEBURGER $8.45</h4>
 <h4>BACON CHEESEBURGER $7.95</h4>
 <h4>PIZZABURGER $7.25</h4>
- 
+</div>
+
+<div id="steaks">
 <h3>Steak Sandwiches</h3>
 <p>Extra toppings $0.50.</p>
 <h4>STEAK $5.50</h4>
@@ -225,7 +252,8 @@
 <h4>CHICKEN STEAK $5.95</h4>
 <h4>CHICKEN CHEESESTEAK $6.50</h4>
 <h4>BUFFALO CHICKEN CHEESESTEAK $6.50</h4>
- 
+</div>
+<div id="hot-subs">
 <h3>Hot Subs</h3>
 <h4>MEATBALLS $5.50</h4>
 <h4>SAUSAGE $5.75</h4>
@@ -246,7 +274,8 @@
 <h4>CHICKEN MEDITERRANIO $6.75 roasted peppers, black olives &amp; hot sauce.</h4>
 <h4>CHICKEN U.S.A STYLE $6.50 broccoli, mushrooms &amp; melted mozzarella.</h4>
 <h4>HOT ROAST BEEF $7.00</h4>
- 
+</div>
+<div id="cold-subs">
 <h3>Cold Subs</h3>
 <p>Toppings each $0.50.</p>
 <h4>ITALIAN $6.00</h4>
@@ -260,7 +289,8 @@
 <h4>SALAMI, HAM &amp; CHEESE $6.00</h4>
 <h4>MEDITERRANIO $7.50</h4>
 <p>prosciutto di parma, roasted peppers, pesto sauce &amp; fresh mozzarella.</p>
- 
+</div>
+<div id="sides">
 <h3>Side Orders</h3>
 <h4>FRENCH FRIES $2.50</h4>
 <h4>CHEESE FRIES $3.50</h4>
@@ -270,14 +300,20 @@
 <h4>MEATBALLS OR SAUSAGE $3.00</h4>
 <h4>SAUTEED BROCCOLI, SPINACH OR ESCAROLE $4.50</h4>
 <h4>ONION RINGS $2.50</h4>
- 
+</div>
+
+<div id="desserts">
 <h3>Desserts</h3>
 <h4>CANNOLI $3.00</h4>
+</div>
+<div id="beverages">
 <h3>Beverages</h3>
 <h4>22 OZ. FOUNTAIN SODA $1.50</h4>
 <h4>CAN OF SODA $1.00</h4>
 <h4>2 LITER SODA $2.25</h4>
 <h4>PITCHERS OF SODA $3.95</h4>
+</div>
+</div>
  
 </body>
 </html>
