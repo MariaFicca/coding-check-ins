@@ -18,7 +18,7 @@ ul li a{
 	width: 100px;
 	padding: 3px 3px;
 	margin: 3px;
-	background-color: white;
+	background-color: purple;
 	border-top-left-radius: 15px;
 	border-top-right-radius: 15px;
 }
@@ -28,7 +28,7 @@ a{
 }
 
 a:link{
-	color: green;
+	color: white;
 }
 
 a:visited{
@@ -36,12 +36,12 @@ a:visited{
 }
 
 a:hover{
-	color: blue;
-	text-decoration: underline;
+	color: yellow;
+	text-decoration: none;
 }
 
 a:active{
-	color: blue;
+	color: orange;
 }
 
 head {
