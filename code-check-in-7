@@ -7,11 +7,32 @@
 
 </head>
 <body>
- 
+	
 <div id="container"> 
 <h1>Mediterraneo Pizza</h1>
 <h2>245 Lancaster Ave , Malvern PA 19355</h2>
 <h2>(610) 240-9566</h2>
+
+<div id="navigation">
+<ul>
+	<li><a href="cold-appetizers">Cold Appetizers</a></li>
+	<li><a href="hot-appetizers">Hot Appetizers</a></li>
+	<li><a href="salads">Salads</a></li>
+	<li><a href="wraps">Wraps</a></li>
+	<li><a href="pasta">Pasta</a></li>
+	<li><a href="baked-dishes">Baked Dishes</a></li>
+	<li><a href="Pasta-Specialties">Pasta Specialties</a></li>
+	<li><a href="Seafood">Seafood</a></li>
+	<li><a href="Chicken">Chicken</a></li>
+	<li><a href="veal">Veal</a></li>
+	<li><a href="NY-pizza">New York Style Pizza</a></li>
+	<li><a href="red">Gourmet Red</a></li>
+	<li><a href="white">Gourmet White</a></li>
+	<li><a href="stromboli">Stromboli</a></li>
+	<li><a href="calzone">Calzone</a></li>
+	
+</ul>
+</div>	
 
 <div id="Cold-appetizers"> 
 <h3>Cold Appetizers</h3>
@@ -82,6 +103,9 @@
 <h4>TORTELLINI TOMATO SAUCE $10.50</h4>
 <h4>GNOCCHI TOMATO SAUCE $10.50</h4>
 <h4>CHEESE RAVIOLI $10.50</h4>
+</div>
+
+<div id="baked-dishes">
 <h3>Baked Dishes</h3>
 <h4>MEAT LASAGNA $11.95</h4>
 <h4>STUFFED SHELLS $10.95</h4>
