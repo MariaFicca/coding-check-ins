@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html>
   <head>
@@ -22,3 +23,15 @@
     <script src="js/bootstrap.min.js"></script>
   </body>
 </html>
+=======
+<DOCTYPE! html>
+<html lang="en">
+<head>
+
+
+</head>
+<body>
+<h1>Maria Ficca's Page</h1>
+
+<img src="..." alt="..." class="img-rounded">
+>>>>>>> 80b45c5f1d5c0fa5ce542f4ee12a9d6bad3090f2
