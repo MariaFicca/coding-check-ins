@@ -1,2 +1,9 @@
 body{
-	background-image;  /Users/student/Desktop/coding-check-ins/486712_10151428118531527_1650177887_n.jpg} 
+	background-image: url("http://image.cdnllnwnl.xosnetwork.com/pics33/640/EK/EKSYKHNKEFFDQDS.20130717035802.jpeg")
+	
+}
+h1{
+	
+	color: white;
+	font-size: 300%;
+}
