@@ -18,9 +18,9 @@
     <h1>Maria Ficca</h1>
 	
 	<ul class="nav nav-tabs">
-	  <li class="active"><a href="#">About/a></li>
+	  <li class="active"><a href="#">About</a></li>
 	  <li><a href="#">Softball</a></li>
-	  <li><a href="#">Resume</a></li>
+	  <li><a href="file:///Users/student/Desktop/coding-check-ins/code-check-in-6">Resume</a></li>
 	</ul>
 	
 	<img src="swinging.jpg"> 
