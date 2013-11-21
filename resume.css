@@ -13,6 +13,9 @@ ul{
 body{
   font: normal medium/1.4 sans-serif;
 }
+
+body { padding-bottom: 70px; }
+
 .container{
   border-collapse: collapse;
   width: 100%;

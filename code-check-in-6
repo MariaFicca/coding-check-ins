@@ -63,6 +63,11 @@
 	<h2>Skills</h2>
 	<p>Photoshop, iMovie, Audacity, HTML5, CSS, Prezi, Powerpoint, Word</p>
 </section>
+
+<nav class="navbar navbar-default navbar-fixed-bottom" role="navigation">
+	<a href="file:///Users/student/Desktop/coding-check-ins/code-check-in-9">back to home</a>
+</nav>
+
 </body>
 </html>
 
