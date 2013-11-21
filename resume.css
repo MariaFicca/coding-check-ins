@@ -59,6 +59,11 @@ section{
 
 }
 
+button{
+	font-size: 150%;
+	margin-right: 10%;
+}
+
 #container{
         margin: 0 auto;
         width: 960px;

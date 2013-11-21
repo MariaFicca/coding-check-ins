@@ -64,9 +64,12 @@
 	<p>Photoshop, iMovie, Audacity, HTML5, CSS, Prezi, Powerpoint, Word</p>
 </section>
 
-<nav class="navbar navbar-default navbar-fixed-bottom" role="navigation">
-	<a href="file:///Users/student/Desktop/coding-check-ins/code-check-in-9">back to home</a>
-</nav>
+<div id="buttons">
+	<button type="button" class="btn btn-default navbar-btn"><a href="file:///Users/student/Desktop/coding-check-ins/code-check-in-9">Home</a></button>
+	<button type="button" class="btn btn-default navbar-btn">About</button>
+	<button type="button" class="btn btn-default navbar-btn">Softball</button>
+</div>
+
 
 </body>
 </html>

@@ -6,12 +6,17 @@ h1{
 	
 	color: #7FFF01;
 	font-size: 360%;
-	margin-top: 16%;
+	margin-top: 15%;
 	margin-left: 50%;
 }
 button{
-	style: none;
-	margin-bottom: 7%;
+	background-color: #7FFF01;
+	font-size: 150%;
+	font-style: none;
+	margin-bottom: 6.7%;
 	margin-left: 60%;
 
+}
+a{
+	color: #CD0200;
 }
