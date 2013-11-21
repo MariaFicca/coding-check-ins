@@ -1,9 +1,17 @@
 body{
-	background-image: url("http://image.cdnllnwnl.xosnetwork.com/pics33/640/EK/EKSYKHNKEFFDQDS.20130717035802.jpeg")
+	background-image: url("file:///Users/student/Desktop/hitting.jpg")
 	
 }
 h1{
 	
-	color: white;
-	font-size: 300%;
+	color: #7FFF01;
+	font-size: 360%;
+	margin-top: 16%;
+	margin-left: 50%;
+}
+button{
+	style: none;
+	margin-bottom: 7%;
+	margin-left: 60%;
+
 }
