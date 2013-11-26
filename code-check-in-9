@@ -5,18 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
-<<<<<<< HEAD
-<<<<<<< HEAD
+
         <link rel="stylesheet" href="final.css" type="text/css" media="screen" title="no title" charset="utf-8">
         
-=======
+
 	<link rel="stylesheet" href="final.css" type="text/css" media="screen" title="no title" charset="utf-8">
 	
->>>>>>> 9188c93b024ed0375f3f4b34a47aa5d070d31946
-=======
+
 	<link rel="stylesheet" href="final.css" type="text/css" media="screen" title="no title" charset="utf-8">
 	
->>>>>>> 9188c93b024ed0375f3f4b34a47aa5d070d31946
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -26,8 +23,6 @@
     <![endif]-->
   </head>
   <body>
-<<<<<<< HEAD
-<<<<<<< HEAD
           <div id="container">
     <h1>Maria Ficca</h1>
         <section id="buttons">
@@ -39,13 +34,13 @@
 </section>
 </div>
         
-=======
+
 	  <div id="container">
     <h1>Maria Ficca</h1>
-=======
+
 	  <div id="container">
     <h1>Maria Ficca</h1>
->>>>>>> 9188c93b024ed0375f3f4b34a47aa5d070d31946
+
 	<section id="buttons">
 	<button type="button" class="btn btn-default navbar-btn">
 		<a href="#">About</a></button>
@@ -55,11 +50,6 @@
 </section>
 </div>
 	
-<<<<<<< HEAD
->>>>>>> 9188c93b024ed0375f3f4b34a47aa5d070d31946
-=======
->>>>>>> 9188c93b024ed0375f3f4b34a47aa5d070d31946
-
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://code.jquery.com/jquery.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
