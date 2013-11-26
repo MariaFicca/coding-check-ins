@@ -6,8 +6,13 @@
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <link rel="stylesheet" href="final.css" type="text/css" media="screen" title="no title" charset="utf-8">
         
+=======
+	<link rel="stylesheet" href="final.css" type="text/css" media="screen" title="no title" charset="utf-8">
+	
+>>>>>>> 9188c93b024ed0375f3f4b34a47aa5d070d31946
 =======
 	<link rel="stylesheet" href="final.css" type="text/css" media="screen" title="no title" charset="utf-8">
 	
@@ -21,6 +26,7 @@
     <![endif]-->
   </head>
   <body>
+<<<<<<< HEAD
 <<<<<<< HEAD
           <div id="container">
     <h1>Maria Ficca</h1>
@@ -36,6 +42,10 @@
 =======
 	  <div id="container">
     <h1>Maria Ficca</h1>
+=======
+	  <div id="container">
+    <h1>Maria Ficca</h1>
+>>>>>>> 9188c93b024ed0375f3f4b34a47aa5d070d31946
 	<section id="buttons">
 	<button type="button" class="btn btn-default navbar-btn">
 		<a href="#">About</a></button>
@@ -45,6 +55,9 @@
 </section>
 </div>
 	
+<<<<<<< HEAD
+>>>>>>> 9188c93b024ed0375f3f4b34a47aa5d070d31946
+=======
 >>>>>>> 9188c93b024ed0375f3f4b34a47aa5d070d31946
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
