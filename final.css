@@ -1,20 +1,23 @@
 body{
-	background-image: url("file:///Users/student/Desktop/hitting.jpg")
-	
+	background-image: url("file:///Users/student/Pictures/a10s.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
 }
+
 h1{
 	
 	color: #7FFF01;
-	font-size: 360%;
-	margin-top: 15%;
-	margin-left: 50%;
+	font-size: 375%;
+	margin-top: 8%;
+	margin-left: 70%;
+	margin-bottom: 5%;
 }
 button{
 	background-color: #7FFF01;
 	font-size: 150%;
 	font-style: none;
-	margin-bottom: 6.7%;
-	margin-left: 60%;
+	margin-bottom: 7%;
+	margin-left: 80%;
 
 }
 a{

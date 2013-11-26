@@ -1,19 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Bootstrap 101 Template</title>
+    <title>Maria Ficca's Personal Website'</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
         <link rel="stylesheet" href="final.css" type="text/css" media="screen" title="no title" charset="utf-8">
         
-
-	<link rel="stylesheet" href="final.css" type="text/css" media="screen" title="no title" charset="utf-8">
-	
-
-	<link rel="stylesheet" href="final.css" type="text/css" media="screen" title="no title" charset="utf-8">
-	
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -23,20 +17,7 @@
     <![endif]-->
   </head>
   <body>
-          <div id="container">
-    <h1>Maria Ficca</h1>
-        <section id="buttons">
-        <button type="button" class="btn btn-default navbar-btn">
-                <a href="#">About</a></button>
-          <button type="button" class="btn btn-default navbar-btn"><a href="#">Softball</a></button>
-          <button type="button" class="btn btn-default navbar-btn"><a href="file:///Users/student/Desktop/coding-check-ins/code-check-in-6">Resume</a></button>
-
-</section>
-</div>
         
-
-	  <div id="container">
-    <h1>Maria Ficca</h1>
 
 	  <div id="container">
     <h1>Maria Ficca</h1>
