@@ -5,7 +5,6 @@
 		<title>Maria Ficca's Resume</title>
 		<link rel="stylesheet" href="css/resume.css" type="text/css" media="screen" title="no title" charset="utf-8">
 	
-	
 </head>
 
 <body>
@@ -63,6 +62,14 @@
 	<h2>Skills</h2>
 	<p>Photoshop, iMovie, Audacity, HTML5, CSS, Prezi, Powerpoint, Word</p>
 </section>
+
+<div id="buttons">
+	<button type="button" class="btn btn-default navbar-btn"><a href="file:///Users/student/Desktop/coding-check-ins/code-check-in-9">Home</a></button>
+	<button type="button" class="btn btn-default navbar-btn">About</button>
+	<button type="button" class="btn btn-default navbar-btn">Softball</button>
+</div>
+
+
 </body>
 </html>
 

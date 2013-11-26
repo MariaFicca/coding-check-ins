@@ -5,8 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
+<<<<<<< HEAD
         <link rel="stylesheet" href="final.css" type="text/css" media="screen" title="no title" charset="utf-8">
         
+=======
+	<link rel="stylesheet" href="final.css" type="text/css" media="screen" title="no title" charset="utf-8">
+	
+>>>>>>> 9188c93b024ed0375f3f4b34a47aa5d070d31946
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -16,6 +21,7 @@
     <![endif]-->
   </head>
   <body>
+<<<<<<< HEAD
           <div id="container">
     <h1>Maria Ficca</h1>
         <section id="buttons">
@@ -27,6 +33,19 @@
 </section>
 </div>
         
+=======
+	  <div id="container">
+    <h1>Maria Ficca</h1>
+	<section id="buttons">
+	<button type="button" class="btn btn-default navbar-btn">
+		<a href="#">About</a></button>
+	  <button type="button" class="btn btn-default navbar-btn"><a href="#">Softball</a></button>
+	  <button type="button" class="btn btn-default navbar-btn"><a href="file:///Users/student/Desktop/coding-check-ins/code-check-in-6">Resume</a></button>
+
+</section>
+</div>
+	
+>>>>>>> 9188c93b024ed0375f3f4b34a47aa5d070d31946
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://code.jquery.com/jquery.js"></script>
