@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="final.css" type="text/css" media="screen" title="no title" charset="utf-8">
+        
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -14,19 +16,20 @@
     <![endif]-->
   </head>
   <body>
+          <div id="container">
     <h1>Maria Ficca</h1>
-	
-	<ul class="nav nav-tabs">
-	  <li class="active"><a href="#">About/a></li>
-	  <li><a href="#">Softball</a></li>
-	  <li><a href="#">Resume</a></li>
-	</ul>
-	
-	<img src="swinging.jpg"> 
+        <section id="buttons">
+        <button type="button" class="btn btn-default navbar-btn">
+                <a href="#">About</a></button>
+          <button type="button" class="btn btn-default navbar-btn"><a href="#">Softball</a></button>
+          <button type="button" class="btn btn-default navbar-btn"><a href="file:///Users/student/Desktop/coding-check-ins/code-check-in-6">Resume</a></button>
+
+</section>
+</div>
+        
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://code.jquery.com/jquery.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
   </body>
-
