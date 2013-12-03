@@ -1,5 +1,5 @@
 body{
-	background-image: url("file:///Users/student/Pictures/a10s.jpg");
+	background-image: url('486712_10151428118531527_1650177887_n.jpg');
 	background-size: 100%;
 	background-repeat: no-repeat;
 }
@@ -7,16 +7,27 @@ body{
 h1{
 	
 	color: #7FFF01;
-	font-size: 375%;
-	margin-top: 8%;
+	font-size: 400%;
+	margin-top: 6%;
 	margin-left: 70%;
 	margin-bottom: 5%;
+	text-shadow: 4px 4px 4px #000; 
+	
 }
+
+@font-face
+{
+font-family: styled
+src: url(/Users/student/Downloads/friday_night_lights.zip);
+
+}
+
 button{
 	background-color: #7FFF01;
 	font-size: 150%;
 	font-style: none;
-	margin-bottom: 7%;
+	margin-bottom: 11%;
+	margin-top: 3.1%;
 	margin-left: 80%;
 
 }
