@@ -1,13 +1,17 @@
 body{
 	background-color: #BD0000;
+	
 }
+
+
 h1{
 	color: white;
 	font-family Tahoma Geneva sans-serif;
-	font-size: 300%;
+	font-size: 400%;
 	background-color: black;
 	margin: 0 auto;
-	padding: 3%;
+	padding: 3% 0 3% 20%;
+	text-shadow: 5px 5px 5px gray 
 }
 p{
 	color: #C0C0C0;
