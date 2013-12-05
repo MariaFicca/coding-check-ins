@@ -11,6 +11,21 @@
 	  <div id="container">
 		  <section id="top">
 		  <h1>SJU Hawks Softball</h1>
+		  
+		  <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
+		  <button type="button" class="btn btn-primary">Home</button>
+
+		  <!-- Indicates a successful or positive action -->
+		  <button type="button" class="btn btn-success">About</button>
+
+		  <!-- Contextual button for informational alert messages -->
+		  <button type="button" class="btn btn-info">Resume</button>
+
+		  <!-- Indicates caution should be taken with this action -->
+		  <button type="button" class="btn btn-warning">Warning</button>
+
+		  <!-- Indicates a dangerous or potentially negative action -->
+		  <button type="button" class="btn btn-danger">Danger</button>
 	  </section>
 		  
 		  <img src="../../Pictures/935956_10152207757824045_116916866_n.jpg" width="960" height="720" alt="935956 10152207757824045 116916866 N">

@@ -2,7 +2,9 @@ body{
 	background-color: #BD0000;
 	
 }
-
+#top{
+	background-color: black;
+}
 
 h1{
 	color: white;
@@ -13,9 +15,19 @@ h1{
 	padding: 3% 0 3% 20%;
 	text-shadow: 5px 5px 5px gray 
 }
+
+button{
+	background-color: #7FFF01;
+	color: red;
+	font-size: 140%;
+	margin-left: 8%;
+	
+}
+
 p{
 	color: #C0C0C0;
 	margin: 0 auto;
 	padding: 3% 5% 3% 3%;
+	text-shadow: 2px 2px 2px black;
 	
 }
