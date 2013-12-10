@@ -80,5 +80,8 @@ button{
 p{
         padding: 1% 5%;
 		color: black;
-		text-shadow: 4px 4px 4px white;
-}
+		text-shadow: 4px 4px 4px white;}
+		
+		p:hover{
+			background-color: #B3B3B3;
+		}
