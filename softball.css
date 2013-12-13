@@ -34,19 +34,25 @@ img{
 	padding: 0;
 }
 
+.Bella{
+	float:right;
+}
+
 button{
 	background-color: #7FFF01;
 	color: red;
 	font-size: 125%;
 	margin-left: 8%;
 	padding: .5% .5% .5% .5%;
-	
 }
+	
+
 
 h2{
 	padding: 2%;
 	font-size: 200%;
 	margin-left: 25%;
+	text-shadow: 3px 3px 3px #C0C0C0;
 	
 }
 
