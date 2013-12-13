@@ -15,6 +15,11 @@ h1{
 	
 }
 
+h1:hover{
+    color: maroon;
+    text-shadow: 0 0 5px rgba(0,0,0,0.5)
+}
+
 @font-face
 {
 font-family: styled
