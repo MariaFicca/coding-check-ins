@@ -35,3 +35,40 @@ button{
 a{
 	color: #CD0200;
 }
+body{
+	background-image: url('486712_10151428118531527_1650177887_n.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+h1{
+	
+	color: #7FFF01;
+	font-size: 500%;
+	margin-top: 6%;
+	margin-left: 60%;
+	margin-bottom: 5%;
+	text-shadow: 5px 5px 5px black; 
+	
+}
+
+@font-face
+{
+font-family: styled
+src: url(/Users/student/Downloads/friday_night_lights.zip);
+
+}
+
+button{
+	background-color: #7FFF01;
+	font-size: 150%;
+	font-style: none;
+	margin-bottom: 11%;
+	margin-top: 3.1%;
+	margin-left: 80%;
+	text-shadow: 2px 2px 2px black;
+
+}
+a{
+	color: #CD0200;
+}
