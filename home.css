@@ -27,16 +27,7 @@ src: url(/Users/student/Downloads/friday_night_lights.zip);
 
 }
 
-button{
-	background-color: #7FFF01;
-	font-size: 150%;
-	font-style: none;
-	margin-bottom: 11%;
-	margin-top: 3.1%;
-	margin-left: 80%;
-	text-shadow: 2px 2px 2px black;
 
-}
 a{
 	color: #CD0200;
 }
@@ -72,8 +63,12 @@ button{
 	margin-top: 3.1%;
 	margin-left: 80%;
 	text-shadow: 2px 2px 2px black;
-
 }
+
+button:hover{
+	color: maroon;
+}
+
 a{
 	color: #CD0200;
 }
