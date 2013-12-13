@@ -17,7 +17,7 @@ h1{
 	
 	color: white;
 	padding-left: 25%;
-	text-shadow: 4px 4px 4px gray;
+	text-shadow: 4px 4px 4px red;
 }
 
 h1:hover{
@@ -63,9 +63,13 @@ h2{
 		color: white;
 		text-shadow: 4px 4px 4px black;
 }
+h2:hover{
+	background-color: #D0FF16;
+}
+
 h1{
         font-size: 400%;
-		text-shadow: 4px 4px 4px black;
+		text-shadow: 4px 4px 4px red;
 }
 h3{
         background-color: white;
