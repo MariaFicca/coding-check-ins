@@ -27,10 +27,6 @@ src: url(/Users/student/Downloads/friday_night_lights.zip);
 
 }
 
-
-a{
-	color: #CD0200;
-}
 body{
 	background-image: url('486712_10151428118531527_1650177887_n.jpg');
 	background-size: 100%;
@@ -56,6 +52,7 @@ src: url(/Users/student/Downloads/friday_night_lights.zip);
 }
 
 button{
+	color: #CD0200;
 	background-color: #7FFF01;
 	font-size: 150%;
 	font-style: none;
@@ -69,6 +66,4 @@ button:hover{
 	color: maroon;
 }
 
-a{
-	color: #CD0200;
-}
+
