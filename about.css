@@ -13,7 +13,10 @@ button{
 	padding: 1%;
 }
 	
-	
+button:hover{
+	color: red;
+	background-color: #7FFF01;
+}	
 
 h1{
 	color: #002E5F;
@@ -22,6 +25,11 @@ h1{
 	margin-left: 33%;
 	padding-bottom: 0;
 }
+h1:hover{
+	color: white;
+	text-shadow: 3px 3px 3px #002E5F;
+}
+
 p{
 	color: white;
 	text-shadow: 2px 2px 2px black;
@@ -31,3 +39,8 @@ p{
 	padding-right: 2%;
 	float:left;
 }
+p:hover{
+	color: #7FFF01;
+	text-shadow: 2px 2px 2px red;
+}
+
