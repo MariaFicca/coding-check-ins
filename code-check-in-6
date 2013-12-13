@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-		<meta charset="utf-8">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	    <!-- Bootstrap -->
+	  <link href="css/bootstrap.min.css" rel="stylesheet">
+	  <meta charset="utf-8">
 		<title>Maria Ficca's Resume</title>
 	
 	<link rel="stylesheet" href="resume.css" type="text/css" media="screen" title="no title" charset="utf-8">
@@ -10,13 +14,17 @@
 
 <body>
 		
+  <script src="https://code.jquery.com/jquery.js"></script>
+     <!-- Include all compiled plugins (below), or include individual files as needed -->
+     <script src="js/bootstrap.min.js"></script>		
+		
 <div id="container">
 <header>
 	<h1>Maria Ficca</h1>
 	<ul class="contact-info">
 		<li class="address">221 Dowlin Forge road, Exton, PA, 19341/</li>
 		<li class="email">Maria.ficca@sju.edu/</li>
-		<li class="phone">484.885.5235</li
+		<li class="phone">484.885.5235</li>
 		</ul>
 	</header>
 <section id="objective">
