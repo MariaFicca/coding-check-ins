@@ -6,13 +6,18 @@
 
 }
 
+p:hover{
+	color: maroon;
+	text-shadow: white;
+}
+
 .container {
         width: 9450px;
         margin: 0 auto;
 }
 
 body{
-	background-color: #BD0000;
+	background-color: gray;
 	
 }
 #top{
@@ -26,10 +31,16 @@ h1{
 	background-color: black;
 	margin: 0 auto;
 	padding: 3% 0 3% 20%;
-	text-shadow: 5px 5px 5px gray 
+	text-shadow: 5px 5px 5px red;
 }
 
+h1:hover{
+	color: maroon;
+}
 
+h2:hover{
+	color: black;
+}
 
 .Bella{
 	float:right;
@@ -46,6 +57,7 @@ button{
 
 
 h2{
+	color: maroon;
 	padding: 2%;
 	font-size: 200%;
 	margin-left: 25%;
@@ -54,7 +66,7 @@ h2{
 }
 
 p{
-	color: #C0C0C0;
+	color: white;
 	font-size: 135%;
 	margin: 0 auto;
 	padding: 3% 5% 3% 3%;
