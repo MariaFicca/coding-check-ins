@@ -82,7 +82,7 @@ section{
 }
 
 button{
-	size: large;
+	font-size: 120%;
 	background-color: #D0FF16;
 	color: red;
 }
